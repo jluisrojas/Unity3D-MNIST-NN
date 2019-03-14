@@ -13,3 +13,7 @@ La implementacion del la red neuronal y del modelo de Back-Propagation fue sigui
 * [3Blue1Brown serie en Redes Neuronales](https://www.youtube.com/watch?v=aircAruvnKk)
 * [Distill](https://distill.pub/)
 * [Libro de Michael Nielsen, introducing neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+
+## Trabajo futuro
+* Guardar el modelo entrenado en un archivo binario
+* Implementación de lapiz para probar digitos
