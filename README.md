@@ -1,19 +1,19 @@
-# Red Neuronal en Unity 3D - Back-Propagation (MNIST)
+# Neural Network (Back-Propagation) in Unity 3D
 
 > Unity version: 2018.3.0f2
 
-Red neuronal en Unity 3D utilizando un modelo de Back-Propagation, entrenado para reconocer digitos a mano del dataset de [MNIST](http://yann.lecun.com/exdb/mnist/). Tambien se cuenta con una forma de previsualizar la imagen a evaluar.
+Neural network in Unity 3D trained with Back-Propagation, to recognize handwritten digits from the [MNIST](http://yann.lecun.com/exdb/mnist/) data set.
 
 <img src="./assets/preview.png" alt="drawing" width="300"/>
 
 ## Implementación
-La implementacion del la red neuronal y del modelo de Back-Propagation fue siguiendo el tutorial [Neural Network - Back-Propagation Tutorial In C#](https://www.youtube.com/watch?v=L_PByyJ9g-I&t=2428s).
+The neural network implementation was done by following this very good tutorial [Neural Network - Back-Propagation Tutorial In C#](https://www.youtube.com/watch?v=L_PByyJ9g-I&t=2428s).
 
-## Otros recursos
-* [3Blue1Brown serie en Redes Neuronales](https://www.youtube.com/watch?v=aircAruvnKk)
+## Other resources
+* [3Blue1Brown Neural Network series](https://www.youtube.com/watch?v=aircAruvnKk)
 * [Distill](https://distill.pub/)
-* [Libro de Michael Nielsen, introducing neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+* [Michael Nielsen book, introducing neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 
-## Trabajo futuro
-* Guardar el modelo entrenado en un archivo binario
-* Implementación de lapiz para probar digitos
+## Future work
+* Save the model in a binary file.
+* Drawing tool for testing with your own digits drawings.
